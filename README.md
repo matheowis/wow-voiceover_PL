@@ -1,5 +1,11 @@
+# THIS is a work in progress
+
+
 # VoiceOver for World of Warcraft Quests and Gossip
 This project contains a CLI (Command Line Interface) tool that generates Text-to-Speech (TTS) audio files for World of Warcraft quests and gossip texts. The tool uses data fetched from a local MySQL database and the ElevenLabs TTS API to generate the audio files. It also contains an addon for playing and queuing the text in game.
+
+## Polish translation idea
+I plan to also translate quests to polish and then use the same TTS service
 
 ## VoiceOver Discord: https://discord.gg/VdhUmA8ZCt
 
